@@ -27,6 +27,7 @@ Dilate the Image:Apply dilation to the original image using the same structuring
  
 ## Program:
 
+
 ``` Python
 Developed by : SRIVATSAN G
 Register Number : 212223230216
